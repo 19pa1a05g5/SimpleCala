@@ -1,1 +1,1 @@
-# SimpleCala
+# SimpleCalculator
